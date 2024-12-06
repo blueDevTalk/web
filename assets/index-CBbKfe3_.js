@@ -17467,7 +17467,7 @@ const Kv = ["About", "FAQ"],
                 className: "flex items-center gap-7",
                 children: [
                   M.jsx("img", {
-                    src: "https://github.com/blueDevTalk/web/blob/main/img/logo.png",
+                    src: "./img/logo.png",
                     alt: "logo",
                     className: "w-10 rounded-full",
                   }),
