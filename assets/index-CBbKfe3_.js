@@ -17260,20 +17260,22 @@ const Wv = () => (
                         M.jsx("li", { children: "Unpack the files" }),
                         M.jsxs("li", {
                           children: [
-                            "Toggle on browser developer mode:",
+                            "Enable developer mode in your browser:",
                             M.jsx("br", {}),
-                            "Chrome: chrome://extensions/ Brave: brave://extensions/ ....etc",
+                            "Chrome: Go to chrome://extensions/ Brave: Go to brave://extensions/
+                            (...and so on for other browsers)",
                             M.jsx("br", {}),
                             "Toggle is located in top right corner",
                           ],
                         }),
                         M.jsx("li", {
                           children:
-                            'From the same screen, click "Load unpacked" in the top left corner and search plugin folder "TALKbeta"',
+                            'Click "Load unpacked" (top-left) and select the "TALKbeta" folder."',
                         }),
                         M.jsx("li", {
                           children:
-                            "(Optionally) Pin the plugin to the browser dashboard for easy access",
+                            "(Optional) Pin the plugin to your browser toolbar for quick access.
+",
                         }),
                       ],
                     }),
