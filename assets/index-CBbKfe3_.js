@@ -17183,13 +17183,13 @@ const Wv = () => (
                   className: "mb-0 text-sm",
                   children: [
                     M.jsx("br", {}),
-                    "Little fan tool aiming to speed up post editing and translation to various languages. As a child of curiosity at any point should be considered as a fully professional project.",
+                    "Little fan-made tool aiming to speed up post editing and translation to various languages. As a child of curiosity at any point should be considered as a fully professional project.",
                     M.jsx("br", {}),
                     M.jsx("br", {}),
                     M.jsx("p", {
                       className: " text-sm font-bold text-blue-300",
                       children:
-                        "For the time installation is possible only through chromium developer mode",
+                        "Currently, installation is only available through Chromium developer mode.",
                     }),
                     M.jsx("br", {}),
                     "Current beta release is licensed under the GNU General Public License Version 3 (GPLv3).",
@@ -17201,12 +17201,12 @@ const Wv = () => (
                     M.jsx("br", {}),
                     M.jsx("b", {
                       children:
-                        "Current version is build for chromium web browsers.",
+                        "This version is built for Chromium-based web browsers.",
                     }),
                     M.jsx("br", {}),
                     M.jsx("b", {
                       children:
-                        "Utylize Google's GEMINI 1.5 Flash for translation purpose and requires API key",
+                        "Utylize Google's GEMINI 1.5 Flash for translations (API key required)",
                     }),
                   ],
                 }),
