@@ -17260,16 +17260,12 @@ const Wv = () => (
                         M.jsx("li", { children: "Unpack the files" }),
                         M.jsxs("li", {
                           children: [
-    "Enable developer mode in your browser:",
-    M.jsx("br", {}),
-    "Chrome: Go to chrome://extensions/",
-    M.jsx("br", {}),
-    "Brave: Go to brave://extensions/",
-    M.jsx("br", {}),
-    "(...and so on for other browsers)",
-    M.jsx("br", {}),
-    "Toggle is located in the top right corner",
-  ],
+                              "Toggle on browser developer mode:",
+                            M.jsx("br", {}),
+                            "Chrome: chrome://extensions/ Brave: brave://extensions/ ....etc",
+                            M.jsx("br", {}),
+                            "Toggle is located in top right corner",
+                          ],
                         }),
                         M.jsx("li", {
                           children:
