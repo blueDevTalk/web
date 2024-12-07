@@ -17043,7 +17043,7 @@ const $v = () => {
                         className:
                           "mb-5 max-w-128 tracking-widest uppercase font-robert-regular text-blue-200",
                         children: "Totally Amature Linguistic Kommunicator",
-                      }),
+                      
                       }),
                     ],
                   }),
