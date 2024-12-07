@@ -17261,9 +17261,7 @@ const Wv = () => (
                         M.jsxs("li", {
                           children: [
                             "Enable developer mode in your browser:",
-                            M.jsx("br", {}),
-                            "Chrome: Go to chrome://extensions/ Brave: Go to brave://extensions/
-                            (...and so on for other browsers)",
+ "Chrome: Go to chrome://extensions/ Brave: Go to brave://extensions/",
                             M.jsx("br", {}),
                             "Toggle is located in top right corner",
                           ],
