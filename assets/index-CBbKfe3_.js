@@ -17062,6 +17062,7 @@ const $v = () => {
                           containerClass: `!bg-gradient-to-r from-blue-200 to-blue-500 flex-center text-gray-200 gap-1 px-10 
                   hover:!bg-blue-500 hover:scale-110  transition-all duration-300 ease-in-out`,
                         }),
+                      }),
                     ],
                   }),
                 }),
