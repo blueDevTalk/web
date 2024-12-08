@@ -17790,7 +17790,7 @@ const ry = () =>
               className: "text-gray-500 text-xs text-center md:text-right",
               children: M.jsxs("p", {
                 children: [
-                  Trademarks like "Google™ belong to their respective owners.",
+                  "Trademarks like 'Google' belong to their respective owners.",
                 ],
               }),
             }),
