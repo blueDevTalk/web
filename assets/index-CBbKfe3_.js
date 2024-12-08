@@ -17790,9 +17790,7 @@ const ry = () =>
               className: "text-gray-500 text-xs text-center md:text-right",
               children: M.jsxs("p", {
                 children: [
-                  "Bluesky™ and GEMINI™ are trademarks of their respective owners.",
-                  M.jsx("br", {}),
-                  "This is a fan-made project, not affiliated with Bluesky or Google.",
+                  Trademarks like "Google™ belong to their respective owners.",
                 ],
               }),
             }),
