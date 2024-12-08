@@ -134,6 +134,7 @@ html,
 body {
   margin: 0;
   line-height: inherit;
+  overflow-x: clip;
 }
 hr {
   height: 0;
