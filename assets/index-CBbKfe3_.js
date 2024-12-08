@@ -17620,9 +17620,9 @@ const Jv = ({ question: f, answer: n }) => {
           "Yes. Current beta release is licensed under the GNU General Public License Version 3 (GPLv3). You are free to use, modify, and distribute this software, provided that all copies and substantial portions of the software are licensed under the same terms",
       },
       {
-        question: "Why I can not fully controll ?",
+        question: "Why I don't have a full controll over my threads ?",
         answer:
-          "Plugin is developed by me and me only. Support for threads will appear as soon as I will find time for it and if plugin gathers enough community",
+          "Plugin is developed by me and me only. Extended threads support will appear as soon as I will find time for it and if plugin gathers enough community",
       },
       {
         question: "How can I contribute?",
@@ -17681,7 +17681,7 @@ const Jv = ({ question: f, answer: n }) => {
                       M.jsxs("ul", {
                         className: "list-disc pl-6 space-y-4 text-xs",
                         children: [
-                          M.jsx("li", { children: "Threads Support" }),
+                          M.jsx("li", { children: "Full edit controll over threads" }),
                           M.jsx("li", {
                             children:
                               "AI features (post shrinking, tagging...)",
