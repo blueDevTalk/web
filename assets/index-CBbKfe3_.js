@@ -17158,7 +17158,7 @@ const Wv = () => (
       children: [
         M.jsx(lg, {
           title:
-            "Translate & Upload skeets on the fly",
+            "Translate & Upload skeets<br /> on the fly",
           containerClass: "mt-5 !text-gray-200 text-center",
         }),
         M.jsxs("div", {
